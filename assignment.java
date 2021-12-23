@@ -15,6 +15,7 @@ public static void main(String[] args) {
     username = input.next();
 
     System.out.println("password: ");
+
     password = input.next();
 
     //users check = new users(username, password);
