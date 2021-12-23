@@ -11,6 +11,7 @@ public static void main(String[] args) {
     System.out.println("Log in:");
 
     System.out.println("username: ");
+
     username = input.next();
 
     System.out.println("password: ");
